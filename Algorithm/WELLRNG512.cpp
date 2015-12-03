@@ -1,3 +1,6 @@
+#include "MY_HEADER.h"
+#ifdef WELLRNG512
+
 #include <iostream>
 using namespace std;
 
@@ -37,3 +40,5 @@ unsigned long WELLRNG512(void)
 	state[index] = a^b^d^(a<<2)^(b<<18)^(c<<28);
 	return state[index];
 }
+
+#endif
