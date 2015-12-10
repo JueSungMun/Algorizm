@@ -30,6 +30,15 @@
     <ClCompile Include="[AS]_AllergyFriends.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="[JO] Histogram.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="[JO] QuickSort.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="[JO] SquareRoot.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MY_HEADER.h">
