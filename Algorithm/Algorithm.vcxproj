@@ -85,6 +85,7 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="[JO] Histogram.cpp" />
+    <ClCompile Include="[JO] Mosaic.cpp" />
     <ClCompile Include="[JO] QuickSort.cpp" />
     <ClCompile Include="[JO] SquareRoot.cpp" />
   </ItemGroup>
